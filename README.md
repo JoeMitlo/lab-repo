@@ -5,3 +5,7 @@ Jaden Burroughs: In my code I take  the user's name and age and tell them whethe
 Dom Colangelo: Takes a number and name and multiplies the number by 8
 
 Joe Mitlo: Takes a name and number and tells the person if the number is odd or even
+
+# Code of Conduct
+
+We chose this code of conduct because we believe it creates a safe space and it is very concise.
