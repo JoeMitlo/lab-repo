@@ -9,3 +9,5 @@ Joe Mitlo: Takes a name and number and tells the person if the number is odd or 
 # Code of Conduct
 
 We chose this code of conduct because we believe it creates a safe space and it is very concise.
+
+# License
